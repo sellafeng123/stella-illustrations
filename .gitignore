@@ -5,6 +5,7 @@ Thumbs.db
 generated/
 outputs/
 dist/
+.worktrees/
 
 # Local editor files
 .idea/
