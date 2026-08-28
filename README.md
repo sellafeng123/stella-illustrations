@@ -76,9 +76,17 @@ Stella Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文文�
 
 ![两个断点](examples/images/01-two-breakpoints.png)
 
+### 最小闭环
+
+![最小闭环](examples/images/09-minimum-loop.png)
+
 ### 按目的分拣
 
 ![按目的分拣](examples/images/02-sort-by-purpose.png)
+
+### 信息源按目的分类
+
+![信息源按目的分类](examples/images/11-source-sorting.png)
 
 ### 一鱼多吃
 
@@ -100,9 +108,9 @@ Stella Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文文�
 
 ![内容发酵](examples/images/07-content-fermentation.png)
 
-### 信任桥
+### 常见内容坑
 
-![信任桥](examples/images/08-trust-bridge.png)
+![常见内容坑](examples/images/10-common-pits.png)
 
 这些图片是风格校准样例，不是构图模板。使用时应该从当前文章重新发明隐喻，不要照抄旧案例的物件和构图。
 
